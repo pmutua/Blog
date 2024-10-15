@@ -1,12 +1,74 @@
 [
   {
-    "title": "My First Blog Post",
-    "filename": "post1.md",
-    "url": "https://raw.githubusercontent.com/pmutua/blog/refs/heads/main/how_to_install_angular_step_by_step_guide.md"
+    "title": "How to Install Angular: A Complete Guide",
+    "filename": "how-to-install-angular.md",
+    "url": "/blog/how-to-install-angular",
+    "author": "Philip Mutua",
+    "publishDate": "2024-10-04",
+    "tags": ["Angular", "Installation", "JavaScript"],
+    "excerpt": "Learn how to install Angular and set up your environment for fast and efficient web development.",
+    "coverImageUrl": "https://example.com/angular-install-cover.jpg",
+    "readTime": "5 min read",
+    "isFeatured": true
   },
   {
-    "title": "My Second Blog Post",
-    "filename": "post2.md",
-    "url": "https://raw.githubusercontent.com/pmutua/blog/refs/heads/main/how_to_install_angular_step_by_step_guide.md"
+    "title": "Understanding Dependency Injection in Angular",
+    "filename": "dependency-injection-angular.md",
+    "url": "/blog/dependency-injection-angular",
+    "author": "Philip Mutua",
+    "publishDate": "2024-10-06",
+    "tags": ["Angular", "Dependency Injection", "JavaScript"],
+    "excerpt": "A deep dive into dependency injection in Angular and how it can make your applications more modular and testable.",
+    "coverImageUrl": "https://example.com/dependency-injection-cover.jpg",
+    "readTime": "7 min read",
+    "isFeatured": false
+  },
+  {
+    "title": "Mastering Angular Router for Better Navigation",
+    "filename": "angular-router-navigation.md",
+    "url": "/blog/angular-router-navigation",
+    "author": "Philip Mutua",
+    "publishDate": "2024-10-08",
+    "tags": ["Angular", "Routing", "Web Development"],
+    "excerpt": "In this article, we explore how to use Angular Router to create seamless navigation in your web apps.",
+    "coverImageUrl": "https://example.com/angular-router-cover.jpg",
+    "readTime": "6 min read",
+    "isFeatured": true
+  },
+  {
+    "title": "Building Reusable Components in Angular",
+    "filename": "building-reusable-components.md",
+    "url": "/blog/building-reusable-components",
+    "author": "Philip Mutua",
+    "publishDate": "2024-10-10",
+    "tags": ["Angular", "Components", "Best Practices"],
+    "excerpt": "Learn how to build reusable, maintainable components in Angular that can be shared across your app.",
+    "coverImageUrl": "https://example.com/reusable-components-cover.jpg",
+    "readTime": "8 min read",
+    "isFeatured": false
+  },
+  {
+    "title": "Optimizing Angular Performance: Tips and Tricks",
+    "filename": "optimizing-angular-performance.md",
+    "url": "/blog/optimizing-angular-performance",
+    "author": "Philip Mutua",
+    "publishDate": "2024-10-12",
+    "tags": ["Angular", "Performance", "Optimization"],
+    "excerpt": "This guide covers best practices for optimizing the performance of your Angular applications.",
+    "coverImageUrl": "https://example.com/angular-performance-cover.jpg",
+    "readTime": "10 min read",
+    "isFeatured": false
+  },
+  {
+    "title": "Angular Testing with Jasmine and Karma",
+    "filename": "angular-testing-jasmine-karma.md",
+    "url": "/blog/angular-testing-jasmine-karma",
+    "author": "Philip Mutua",
+    "publishDate": "2024-10-14",
+    "tags": ["Angular", "Testing", "Jasmine", "Karma"],
+    "excerpt": "A comprehensive guide on testing Angular applications using Jasmine and Karma.",
+    "coverImageUrl": "https://example.com/angular-testing-cover.jpg",
+    "readTime": "12 min read",
+    "isFeatured": true
   }
 ]
