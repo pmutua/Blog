@@ -1,0 +1,12 @@
+[
+  {
+    "title": "My First Blog Post",
+    "filename": "post1.md",
+    "url": "https://raw.githubusercontent.com/pmutua/blog/refs/heads/main/how_to_install_angular_step_by_step_guide.md"
+  },
+  {
+    "title": "My Second Blog Post",
+    "filename": "post2.md",
+    "url": "https://raw.githubusercontent.com/pmutua/blog/refs/heads/main/how_to_install_angular_step_by_step_guide.md"
+  }
+]
